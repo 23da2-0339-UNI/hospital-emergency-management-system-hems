@@ -30,8 +30,8 @@ Running `Main.java` presents the following menu:
 ## Screenshots
 
 **Adding a Patient**
-![Add Patient 1](screenshots/add-patient.png)
-![Add Patient 2](screenshots/add-patient.png)
+![Add Patient 1](screenshots/add-patient1.png)
+![Add Patient 2](screenshots/add-patient2.png)
 
 **Adding Patient to Emergency Queue**
 ![add to queue](screenshots/add-to-queue.png)
